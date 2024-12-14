@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"gui","l":"GameFrame"},{"p":"gui","l":"GamePanel"},{"p":"gui","l":"igraj2048"},{"p":"konzola","l":"Konzola2048"},{"p":"logika","l":"Logika2048"},{"p":"logika","l":"NajveciScore"},{"p":"logika","l":"Polje"},{"p":"gui","l":"Uputstva"}];updateSearchResults();
